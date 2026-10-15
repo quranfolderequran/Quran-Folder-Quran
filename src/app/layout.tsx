@@ -86,6 +86,9 @@ export const metadata: Metadata = {
     icon: "/images/logo-icon.webp",
     apple: "/images/logo-icon.webp",
   },
+  verification: {
+    google: "WtMk-sPwtfTvP82vQu7ghuUQ6LIDXUfZR_QY-dSr0jc",
+  },
 };
 
 const orgSchema = {
