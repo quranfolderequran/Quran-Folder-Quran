@@ -15,7 +15,7 @@ export default function Footer() {
           {/* Column 1: Brand & Identity */}
           <div className="space-y-4">
             <Image
-              src="/images/logo.png"
+              src="/images/logo.webp"
               alt="Islamic Session Logo"
               width={180}
               height={46}

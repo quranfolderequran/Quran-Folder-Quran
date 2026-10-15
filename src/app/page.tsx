@@ -134,7 +134,7 @@ export default function HomePage() {
                 {/* Main 3D Artwork Image */}
                 <div className="relative h-[420px] sm:h-[480px] w-full rounded-3xl overflow-hidden border-2 border-[rgba(230,166,86,0.3)] shadow-[0_20px_50px_rgba(0,0,0,0.9)]">
                   <Image
-                    src="/images/hero_andalus.jpg"
+                    src="/images/hero_andalus.webp"
                     alt="Holy Quran at Alhambra Andalusian Court"
                     fill
                     sizes="(max-width: 1024px) 100vw, 50vw"
@@ -163,7 +163,7 @@ export default function HomePage() {
               <div className="relative inline-block mx-auto max-w-sm rounded-3xl p-3 bg-gradient-to-b from-[#2A1826] via-[#160E14] to-[#0B070A] border-2 border-[rgba(230,166,86,0.35)] shadow-[0_20px_45px_rgba(0,0,0,0.8)]">
                 <div className="relative h-96 w-72 sm:w-80 rounded-2xl overflow-hidden bg-[#160E14]">
                   <Image
-                    src="/images/Gemini_Generated_Image_idszlaidszlaidsz.jpg"
+                    src="/images/Gemini_Generated_Image_idszlaidszlaidsz.webp"
                     alt="Hafiz M. Ali - Founder & Senior Quran Tutor"
                     fill
                     sizes="(max-width: 640px) 288px, 320px"

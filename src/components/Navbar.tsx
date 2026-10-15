@@ -58,7 +58,7 @@ export default function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/images/logo.png"
+                src="/images/logo.webp"
                 alt="Islamic Session Logo"
                 width={180}
                 height={46}
@@ -124,7 +124,7 @@ export default function Navbar() {
           {/* Drawer Header */}
           <div className="flex items-center justify-between pb-4 border-b border-[rgba(230,166,86,0.15)]">
             <Image
-              src="/images/logo.png"
+              src="/images/logo.webp"
               alt="Islamic Session"
               width={150}
               height={38}

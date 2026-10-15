@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     siteName: "Islamic Session",
     images: [
       {
-        url: "/images/hero_andalus.jpg",
+        url: "/images/hero_andalus.webp",
         width: 1200,
         height: 630,
         alt: "Islamic Session - Classical Quran Academy",
@@ -80,11 +80,11 @@ export const metadata: Metadata = {
     title: "Islamic Session | Online Quran Academy",
     description:
       "1-on-1 online classes with certified Hafiz tutors worldwide in English, Urdu, Pashto, and Arabic.",
-    images: ["/images/hero_andalus.jpg"],
+    images: ["/images/hero_andalus.webp"],
   },
   icons: {
-    icon: "/images/logo-icon.png",
-    apple: "/images/logo-icon.png",
+    icon: "/images/logo-icon.webp",
+    apple: "/images/logo-icon.webp",
   },
 };
 
@@ -93,7 +93,7 @@ const orgSchema = {
   "@type": "EducationalOrganization",
   "name": "Islamic Session",
   "url": "https://quranfolder.com",
-  "logo": "https://quranfolder.com/images/logo.png",
+  "logo": "https://quranfolder.com/images/logo.webp",
   "description": "International online Quran academy teaching Tajweed, Hifz, Tafsir, and Arabic with certified Huffaz.",
   "telephone": "+923160250208",
   "email": "quranfolderequran@gmail.com",

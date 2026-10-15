@@ -46,7 +46,7 @@ export default function AboutPage() {
               <div className="relative inline-block mx-auto rounded-3xl p-3 bg-gradient-to-b from-[#2A1826] via-[#160E14] to-[#0B070A] border-2 border-[rgba(230,166,86,0.35)] shadow-2xl">
                 <div className="relative h-96 w-72 sm:w-80 rounded-2xl overflow-hidden bg-[#160E14]">
                   <Image
-                    src="/images/Gemini_Generated_Image_idszlaidszlaidsz.jpg"
+                    src="/images/Gemini_Generated_Image_idszlaidszlaidsz.webp"
                     alt="Hafiz M. Ali - Senior Instructor & Founder"
                     fill
                     sizes="(max-width: 640px) 288px, 320px"
